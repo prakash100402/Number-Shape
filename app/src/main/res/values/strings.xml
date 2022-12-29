@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Number Shape</string>
+    <string name="enter_number_to_find_the_number_is_triangular_or_square_number_or_both">Enter number to find the number is triangular or square number or both.</string>
+    <string name="see_result">SEE RESULT</string>
+    <string name="textview">TextView</string>
+    <string name="enter">Enter</string>
+</resources>
